@@ -1,0 +1,16 @@
+body { background-color: rgb(155, 149, 149);}
+#nav-table {width: 1024px;} 
+#army {
+    float:right;
+    width: 25%;
+    margin-left: 10px
+}
+#aboutme {
+    color: yellow
+}
+#aboutmetext {
+    color:bisque
+}
+html {
+    width: 1000px;
+}
