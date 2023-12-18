@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utv-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <img src="mybanner.jpg" width="1000">
+      <title>Home </title>
+   </head>
+   <body>
+    <table id="nav-table">
+        <thead>
+            <tr>
+                <th><a href="index.html"><img src="Home.png"></a></th>
+                <th><a href="Javascript.html"><img src="javascripts.png"></a></th>
+                <th><a href="about.html"><img src="Aboutme.png"></a></th>
+               <th><a href="FinalProject.html"><img src="final project button.png"></a></th>
+            </tr>
+        </thead>
+    </table>
+    <h2>Welcome to Chris`s Programming Portfolio Website</h2>
+    <p>
+       This website will be used for me to post all of my code that i create <br>
+       this semester. I am excited to learn about coding because it is not something that <br>
+       I have had experience in before.  
+    </p>
+   </body>
+</html>
